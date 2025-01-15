@@ -3,8 +3,7 @@
     "details": [
       {
         "appIDs": [
-          "JVSN22JM65.com.mercurycards.ios.cardapp.dev",
-          "JVSN22JM65.com.mercurycards.ios.cardapp.beta"
+          "JVSN22JM65.com.mercurycards.ios.cardapp.stg"
         ],
         "components": [
           {
@@ -22,8 +21,7 @@
   },
   "webcredentials": {
     "apps": [
-      "JVSN22JM65.com.mercurycards.ios.cardapp.dev",
-      "JVSN22JM65.com.mercurycards.ios.cardapp.beta"
+      "JVSN22JM65.com.mercurycards.ios.cardapp.stg"
     ]
   }
 }
